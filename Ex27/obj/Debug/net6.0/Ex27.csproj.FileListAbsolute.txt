@@ -1,0 +1,15 @@
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.csproj.AssemblyReference.cache
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\bin\Debug\net6.0\Ex27.exe
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\bin\Debug\net6.0\Ex27.deps.json
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\bin\Debug\net6.0\Ex27.runtimeconfig.json
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\bin\Debug\net6.0\Ex27.dll
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\bin\Debug\net6.0\Ex27.pdb
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.dll
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\refint\Ex27.dll
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.pdb
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\Ex27.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\Git_edu\HW4\Ex27\obj\Debug\net6.0\ref\Ex27.dll
